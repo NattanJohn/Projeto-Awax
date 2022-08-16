@@ -9,7 +9,7 @@
   </p>
   
    ## Deploy da Aplicação com GitHub Pages: :dash:
-https://nattanjohn.github.io/Interface-Netflix/
+https://nattanjohn.github.io/Projeto-Awax/
   
 <h3>TÉCNOLOGIAS</h3>
   HTML</br>
