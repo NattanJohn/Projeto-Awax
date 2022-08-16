@@ -8,6 +8,9 @@
   <img width="600" src="assets/video/gif.gif">
   </p>
   
+   ## Deploy da Aplicação com GitHub Pages: :dash:
+https://nattanjohn.github.io/Interface-Netflix/
+  
 <h3>TÉCNOLOGIAS</h3>
   HTML</br>
   CSS</br>
