@@ -949,7 +949,7 @@ select:focus{
     }
     .section-team{
         max-width:280px;
-        margin: auto;
+       
     }
     .slide{
         margin-bottom: 20px;
@@ -966,6 +966,7 @@ select:focus{
     }
     .section-price-table{
         flex-direction: column;
+        
     }
     .section-table-item{
         width: 100%;
@@ -983,6 +984,7 @@ select:focus{
     .section-premium-feacture{
         margin-right: 10px;
        width: 100%;
+       margin: auto;
     }
     .section-premium-feacture h2{
         font-size: 10px;
